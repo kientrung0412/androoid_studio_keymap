@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
       <item value="Vehicle" />
       <item value="EReactNativeJNI: Attempting to call JS function on a bad application bundle: HMRClient.setup()" />
       <item value="com.facebook.react.devsupport.JSException: getPropertyAsObject: property 'callFunctionReturnResultAndFlushedQueue' is undefined, expected an Object" />
@@ -53,15 +54,14 @@
       <item value="hiển thị" />
       <item value="visibility" />
       <item value="visibilyty" />
-      <item value="visibil" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="119" />
+        <entry key="VIETNAMESE" value="120" />
       </map>
     </option>
   </component>
