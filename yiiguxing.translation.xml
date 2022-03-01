@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Caused by: java.lang.IllegalStateException: FirebaseMessaging and FirebaseInstanceId versions not compatible. Update to latest version of firebase-messaging." />
       <item value="&gt; Compilation failed; see the compiler error output for details." />
       <item value="java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
       <item value="Vehicle" />
@@ -53,15 +54,14 @@
       <item value="trưng bày" />
       <item value="display" />
       <item value="hiển thị" />
-      <item value="visibility" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="121" />
+        <entry key="VIETNAMESE" value="122" />
       </map>
     </option>
   </component>
