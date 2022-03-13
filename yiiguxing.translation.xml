@@ -4,10 +4,13 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="is Before" />
+      <item value="to Date" />
+      <item value="from Date" />
+      <item value="To Date" />
       <item value="bản ghi" />
       <item value="bản" />
       <item value="banr" />
-      <item value="from Date" />
       <item value="Bản ghi nhiệt độ" />
       <item value="Bản ghi nhiệt đ" />
       <item value="banr ggi nhieetj ddooj" />
@@ -51,17 +54,14 @@
       <item value="Unexpected" />
       <item value="type 'String' is not a subtype of type 'int' of 'index'" />
       <item value="relationship Vi" />
-      <item value="Missing Plugin Exception" />
-      <item value="o implementation found for method test on channel" />
-      <item value="Hai from android and this is the data yopu sent me" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="132" />
+        <entry key="VIETNAMESE" value="137" />
       </map>
     </option>
   </component>
