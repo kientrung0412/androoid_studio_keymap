@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="thay thế" />
+      <item value="thay" />
       <item value="Interaction" />
       <item value="Caused by: java.lang.IllegalStateException: FirebaseMessaging and FirebaseInstanceId versions not compatible. Update to latest version of firebase-messaging." />
       <item value="&gt; Compilation failed; see the compiler error output for details." />
@@ -52,16 +54,14 @@
       <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
       <item value="want Keep Alive" />
       <item value="signature" />
-      <item value="trưng bày" />
-      <item value="display" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="125" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="123" />
+        <entry key="VIETNAMESE" value="125" />
       </map>
     </option>
   </component>
