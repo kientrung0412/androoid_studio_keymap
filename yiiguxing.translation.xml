@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="bản ghi" />
+      <item value="bản" />
+      <item value="banr" />
       <item value="from Date" />
       <item value="Bản ghi nhiệt độ" />
       <item value="Bản ghi nhiệt đ" />
@@ -51,17 +54,14 @@
       <item value="Missing Plugin Exception" />
       <item value="o implementation found for method test on channel" />
       <item value="Hai from android and this is the data yopu sent me" />
-      <item value="Accessing data sent from flutter" />
-      <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
-      <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="ENGLISH" value="132" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="130" />
+        <entry key="VIETNAMESE" value="132" />
       </map>
     </option>
   </component>
