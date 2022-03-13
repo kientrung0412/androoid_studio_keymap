@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Bản ghi nhiệt độ" />
+      <item value="Bản ghi nhiệt đ" />
+      <item value="banr ggi nhieetj ddooj" />
+      <item value="ban" />
+      <item value="interpolator" />
       <item value="thay thế" />
       <item value="thay" />
       <item value="Interaction" />
@@ -49,19 +54,14 @@
       <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
       <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
       <item value="EXCEPTION" />
-      <item value="══╡ EXCEPTION CAUGHT BY PROVIDER ╞═══════════════════════════════" />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
-      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
-      <item value="want Keep Alive" />
-      <item value="signature" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="ENGLISH" value="129" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="125" />
+        <entry key="VIETNAMESE" value="129" />
       </map>
     </option>
   </component>
