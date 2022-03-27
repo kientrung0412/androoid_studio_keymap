@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="The read timeout is applied to both the TCP socket and for individual read IO operations" />
+      <item value="The default value is 0 which imposes no timeout." />
+      <item value="The call timeout spans the entire call: resolving DNS, connecting, writing the request body, server processing, and reading the response body. If the call requires redirects or retries all must complete within one timeout period." />
+      <item value="Sets the default timeout for complete calls. A value of 0 means no timeout, otherwise values" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.hanabi.baseprojectcom.hanabi.baseproject.ui.HomeActivity}: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value="Unable to create call adapter for io.reactivex" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value=": Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Missing either @GET URL or @Url parameter." />
+      <item value="Caused by: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="An HTTP request. Instances of this class are immutable if their body is null or itself immutable." />
       <item value="Service" />
       <item value="@Database annotation must specify list of entities" />
@@ -44,24 +54,14 @@
       <item value="Script 'C:\Users\nguye\fvm\versions\1.22.6\packages\flutter_tools\gradle\flutter.gradle' line: 904" />
       <item value="&gt; Process 'command 'C:\Users\nguye\fvm\versions\1.22.6\bin\flutter.bat'' finished with non-zero exit value 1" />
       <item value="- In plugin 'FlutterPlugin' type 'FlutterTask' property 'assets' is missing an input or output annotation." />
-      <item value="&gt; No matching configuration of project :teacherEvaluation was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
-      <item value="lecture" />
-      <item value="Curriculum" />
-      <item value="Notifying" />
-      <item value="Chat function being upgraded" />
-      <item value="The chat feature is being upgraded" />
-      <item value="chat feature upgrading" />
-      <item value="Eflutter (27210): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authinvalid-custom-token] The custom token format is incorrect. Please check the documentation. [ Invalid assertion format. 3 dot separated segments required. ]" />
-      <item value="lled with a context that does not contain a repository of type FirebaseApp." />
-      <item value="&gt; No matching client found for package name 'com.omt.module.chat.kidsonline.host'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="ENGLISH" value="164" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="154" />
+        <entry key="VIETNAMESE" value="164" />
       </map>
     </option>
   </component>
