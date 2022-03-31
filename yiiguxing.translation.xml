@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="ElibPowerHal: [perfLockCheckHdl_internal] cannot alloc handle!!! dump all user!!!" />
+      <item value="ElibPowerHal: trigger_aee_warning skip:perf_lock_acq no more handle" />
       <item value="At least one permission is denied" />
       <item value="All requested permissions are granted" />
       <item value="The read timeout is applied to both the TCP socket and for individual read IO operations" />
@@ -52,21 +54,19 @@
       <item value="java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
       <item value="Vehicle" />
       <item value="EReactNativeJNI: Attempting to call JS function on a bad application bundle: HMRClient.setup()" />
-      <item value="com.facebook.react.devsupport.JSException: getPropertyAsObject: property 'callFunctionReturnResultAndFlushedQueue' is undefined, expected an Object" />
-      <item value="Script 'C:\Users\nguye\fvm\versions\1.22.6\packages\flutter_tools\gradle\flutter.gradle' line: 904" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="ENGLISH" value="168" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="166" />
+        <entry key="VIETNAMESE" value="168" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648298719774" />
+    <option name="lastTrimTime" value="1648734849425" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
