@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="set Destination In External Public Dir" />
+      <item value="Coroutine Worker" />
       <item value="Create an intent that can be used for {@link ActivitystartActivityForResult}" />
       <item value="Deprecated" />
       <item value="Type parameters: &lt;I&gt; – type of the input required to launch" />
@@ -52,16 +54,14 @@
       <item value="Bản ghi nhiệt đ" />
       <item value="banr ggi nhieetj ddooj" />
       <item value="ban" />
-      <item value="interpolator" />
-      <item value="thay thế" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="ENGLISH" value="177" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="175" />
+        <entry key="VIETNAMESE" value="177" />
       </map>
     </option>
   </component>
