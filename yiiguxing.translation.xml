@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="&gt; D:\Volumes\Data\OMT\Lib\kidsonline-chat\.android\include_flutter.groovy (D:\Volumes\Data\OMT\Lib\kidsonline-chat\.android\include_flutter.groovy)" />
+      <item value="A problem occurred evaluating settings 'android-parent-v4'." />
       <item value="set Destination In External Public Dir" />
       <item value="Coroutine Worker" />
       <item value="Create an intent that can be used for {@link ActivitystartActivityForResult}" />
@@ -52,21 +54,19 @@
       <item value="banr" />
       <item value="Bản ghi nhiệt độ" />
       <item value="Bản ghi nhiệt đ" />
-      <item value="banr ggi nhieetj ddooj" />
-      <item value="ban" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="179" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="177" />
+        <entry key="VIETNAMESE" value="179" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649662318604" />
+    <option name="lastTrimTime" value="1650781100741" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
