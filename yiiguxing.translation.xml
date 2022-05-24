@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="cannot be provided without an @Provides-annotated method." />
       <item value="Cannot create an instance of class" />
       <item value="Caused by: java.lang.RuntimeException: android.app.Application does not implement dagger.android.HasAndroidInjector" />
       <item value="parameter type must be assignable to the return type abstract ApiHelper provideApiHelper(SharePreferencesHelper preferencesHelper);" />
@@ -41,7 +42,6 @@
       <item value="Service" />
       <item value="@Database annotation must specify list of entities" />
       <item value="The following other entry points also depend on it:" />
-      <item value="cannot be provided without an @Provides-annotated method." />
       <item value="Unexpected lock protocol found in lock file. Expected 3, found 0." />
       <item value="Binds Instance" />
       <item value="D:\AndroidProject\BaseProject\app\src\main\java\com\hanabi\baseproject\di\module\AppModule.java:19: error: Cannot have more than one binding method with the same name in a single module" />
@@ -58,10 +58,10 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="187" />
+        <entry key="VIETNAMESE" value="188" />
       </map>
     </option>
   </component>
