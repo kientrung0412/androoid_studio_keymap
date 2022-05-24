@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Caused by: java.lang.RuntimeException: android.app.Application does not implement dagger.android.HasAndroidInjector" />
       <item value="parameter type must be assignable to the return type abstract ApiHelper provideApiHelper(SharePreferencesHelper preferencesHelper);" />
       <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\module\RemoteModule.java:19: error: @Binds methods' parameter type must be assignable to the return type" />
       <item value="methods must have exactly one parameter, whose type is assignable to the return type" />
@@ -53,15 +54,14 @@
       <item value="&gt; No signature of method: build_r8y55nclcqr6ix90ayu2yy9n.android() is applicable for argument types: (build_r8y55nclcqr6ix90ayu2yy9n_run_closure1) values: [build_r8y55nclcqr6ix90ayu2yy9n_run_closure1@2aff0a59]" />
       <item value="is Before" />
       <item value="to Date" />
-      <item value="from Date" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="185" />
+        <entry key="VIETNAMESE" value="186" />
       </map>
     </option>
   </component>
