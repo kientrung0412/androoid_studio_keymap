@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="parameter type must be assignable to the return type abstract ApiHelper provideApiHelper(SharePreferencesHelper preferencesHelper);" />
+      <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\module\RemoteModule.java:19: error: @Binds methods' parameter type must be assignable to the return type" />
+      <item value="methods must have exactly one parameter, whose type is assignable to the return type" />
       <item value="interface AppComponent extends AndroidInjector&lt;MyApplication&gt; {" />
       <item value="@Provides-annotated method" />
       <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\component\AppComponent.java:28: error: @Component.Factory types must have exactly one abstract method. Already found: create(android.content.Context)" />
@@ -51,17 +54,14 @@
       <item value="is Before" />
       <item value="to Date" />
       <item value="from Date" />
-      <item value="To Date" />
-      <item value="bản ghi" />
-      <item value="bản" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="182" />
+        <entry key="VIETNAMESE" value="185" />
       </map>
     </option>
   </component>
