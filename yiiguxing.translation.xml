@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="color Primary Variant" />
+      <item value="Bridge" />
       <item value="rebase" />
       <item value="java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.omt.app.baseproject.ui.home.TextFragment&gt;" />
       <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
@@ -52,17 +54,15 @@
       <item value="@Database annotation must specify list of entities" />
       <item value="The following other entry points also depend on it:" />
       <item value="Unexpected lock protocol found in lock file. Expected 3, found 0." />
-      <item value="Binds Instance" />
-      <item value="D:\AndroidProject\BaseProject\app\src\main\java\com\hanabi\baseproject\di\module\AppModule.java:19: error: Cannot have more than one binding method with the same name in a single module" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="196" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="195" />
+        <entry key="VIETNAMESE" value="196" />
       </map>
     </option>
   </component>
