@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.omt.app.baseproject.ui.home.TextFragment&gt;" />
+      <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
       <item value="Instantiation of utility class 'FragmentUtils' " />
       <item value="Like commit but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
       <item value="Like commitNow but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
@@ -51,17 +54,14 @@
       <item value="Binds Instance" />
       <item value="D:\AndroidProject\BaseProject\app\src\main\java\com\hanabi\baseproject\di\module\AppModule.java:19: error: Cannot have more than one binding method with the same name in a single module" />
       <item value="MODE NO LOCALIZED COLLATORS" />
-      <item value="MODE MULTI PROCESS" />
-      <item value="defaut" />
-      <item value="defaunt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="192" />
+        <entry key="VIETNAMESE" value="194" />
       </map>
     </option>
   </component>
