@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="is Absolute" />
       <item value="nâng cao" />
       <item value="window Layout In Display Cutout Mode" />
       <item value="color Primary Variant" />
@@ -53,16 +54,15 @@
       <item value="Caused by: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="An HTTP request. Instances of this class are immutable if their body is null or itself immutable." />
       <item value="Service" />
-      <item value="@Database annotation must specify list of entities" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="198" />
+        <entry key="VIETNAMESE" value="199" />
       </map>
     </option>
   </component>
