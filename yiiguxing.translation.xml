@@ -1,72 +1,73 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
-      <item value="Caused by: java.lang.IllegalStateException: FirebaseMessaging and FirebaseInstanceId versions not compatible. Update to latest version of firebase-messaging." />
-      <item value="&gt; Compilation failed; see the compiler error output for details." />
-      <item value="java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
-      <item value="Vehicle" />
-      <item value="EReactNativeJNI: Attempting to call JS function on a bad application bundle: HMRClient.setup()" />
-      <item value="com.facebook.react.devsupport.JSException: getPropertyAsObject: property 'callFunctionReturnResultAndFlushedQueue' is undefined, expected an Object" />
-      <item value="Script 'C:\Users\nguye\fvm\versions\1.22.6\packages\flutter_tools\gradle\flutter.gradle' line: 904" />
-      <item value="&gt; Process 'command 'C:\Users\nguye\fvm\versions\1.22.6\bin\flutter.bat'' finished with non-zero exit value 1" />
-      <item value="- In plugin 'FlutterPlugin' type 'FlutterTask' property 'assets' is missing an input or output annotation." />
-      <item value="&gt; No matching configuration of project :teacherEvaluation was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
-      <item value="lecture" />
-      <item value="Curriculum" />
-      <item value="Notifying" />
-      <item value="Chat function being upgraded" />
-      <item value="The chat feature is being upgraded" />
-      <item value="chat feature upgrading" />
-      <item value="Eflutter (27210): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authinvalid-custom-token] The custom token format is incorrect. Please check the documentation. [ Invalid assertion format. 3 dot separated segments required. ]" />
-      <item value="lled with a context that does not contain a repository of type FirebaseApp." />
-      <item value="&gt; No matching client found for package name 'com.omt.module.chat.kidsonline.host'" />
-      <item value="判断是否存在数据" />
-      <item value="Eflutter (26702): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
-      <item value="WOkHttp: java.net.UnknownHostException: Unable to resolve host &quot;develop.ko.edu.vn&quot;: No address associated with hostname" />
-      <item value="Eflutter (10597): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="libmain.dart:41:20: Warning: Operand of null-aware operation '!' has type 'SharePreferenceRepository' which excludes null." />
-      <item value="Eflutter ( 1575): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
-      <item value="conversations" />
-      <item value="failed" />
-      <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
-      <item value="0 _ChunkedJsonParser.fail (dart:convert-patchconvert_patch.dart:1405:5)" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
-      <item value="We call the 2 parameter variant specifically to avoid breaking changes in" />
-      <item value="Failed to handle method call" />
-      <item value="Unexpected" />
-      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
-      <item value="relationship Vi" />
-      <item value="Missing Plugin Exception" />
-      <item value="o implementation found for method test on channel" />
-      <item value="Hai from android and this is the data yopu sent me" />
-      <item value="Accessing data sent from flutter" />
-      <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
-      <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
-      <item value="EXCEPTION" />
-      <item value="══╡ EXCEPTION CAUGHT BY PROVIDER ╞═══════════════════════════════" />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
-      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
-      <item value="want Keep Alive" />
-      <item value="signature" />
-      <item value="trưng bày" />
-      <item value="display" />
-      <item value="hiển thị" />
+      <item value="Invalid constant value." />
+      <item value="is Absolute" />
+      <item value="nâng cao" />
+      <item value="window Layout In Display Cutout Mode" />
+      <item value="color Primary Variant" />
+      <item value="Bridge" />
+      <item value="rebase" />
+      <item value="java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.omt.app.baseproject.ui.home.TextFragment&gt;" />
+      <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
+      <item value="Instantiation of utility class 'FragmentUtils' " />
+      <item value="Like commit but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
+      <item value="Like commitNow but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
+      <item value="preferable" />
+      <item value="Raw use of parameterized class 'BaseFragment' " />
+      <item value="cannot be provided without an @Provides-annotated method." />
+      <item value="Cannot create an instance of class" />
+      <item value="Caused by: java.lang.RuntimeException: android.app.Application does not implement dagger.android.HasAndroidInjector" />
+      <item value="parameter type must be assignable to the return type abstract ApiHelper provideApiHelper(SharePreferencesHelper preferencesHelper);" />
+      <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\module\RemoteModule.java:19: error: @Binds methods' parameter type must be assignable to the return type" />
+      <item value="methods must have exactly one parameter, whose type is assignable to the return type" />
+      <item value="interface AppComponent extends AndroidInjector&lt;MyApplication&gt; {" />
+      <item value="@Provides-annotated method" />
+      <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\component\AppComponent.java:28: error: @Component.Factory types must have exactly one abstract method. Already found: create(android.content.Context)" />
+      <item value="&gt; D:\Volumes\Data\OMT\Lib\kidsonline-chat\.android\include_flutter.groovy (D:\Volumes\Data\OMT\Lib\kidsonline-chat\.android\include_flutter.groovy)" />
+      <item value="A problem occurred evaluating settings 'android-parent-v4'." />
+      <item value="set Destination In External Public Dir" />
+      <item value="Coroutine Worker" />
+      <item value="Create an intent that can be used for {@link ActivitystartActivityForResult}" />
+      <item value="Deprecated" />
+      <item value="Type parameters: &lt;I&gt; – type of the input required to launch" />
+      <item value="If you have enabled significant logging, look into using the -G option to increase log buffer sizes." />
+      <item value="messages as quickly as they were being produced." />
+      <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log" />
+      <item value="perf Scn Dump All" />
+      <item value="ElibPowerHal: [perfLockCheckHdl_internal] cannot alloc handle!!! dump all user!!!" />
+      <item value="ElibPowerHal: trigger_aee_warning skip:perf_lock_acq no more handle" />
+      <item value="At least one permission is denied" />
+      <item value="All requested permissions are granted" />
+      <item value="The read timeout is applied to both the TCP socket and for individual read IO operations" />
+      <item value="The default value is 0 which imposes no timeout." />
+      <item value="The call timeout spans the entire call: resolving DNS, connecting, writing the request body, server processing, and reading the response body. If the call requires redirects or retries all must complete within one timeout period." />
+      <item value="Sets the default timeout for complete calls. A value of 0 means no timeout, otherwise values" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.hanabi.baseprojectcom.hanabi.baseproject.ui.HomeActivity}: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value="Unable to create call adapter for io.reactivex" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value=": Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Missing either @GET URL or @Url parameter." />
+      <item value="Caused by: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
+      <item value="An HTTP request. Instances of this class are immutable if their body is null or itself immutable." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="122" />
-        <entry key="FRENCH" value="2" />
+        <entry key="ENGLISH" value="199" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="122" />
+        <entry key="VIETNAMESE" value="200" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646137855940" />
+    <option name="lastTrimTime" value="1660499607137" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -74,5 +75,6 @@
         <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
