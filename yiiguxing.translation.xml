@@ -1,0 +1,80 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogX" value="908" />
+    <option name="newTranslationDialogY" value="635" />
+    <histories>
+      <item value="Invalid constant value." />
+      <item value="is Absolute" />
+      <item value="nâng cao" />
+      <item value="window Layout In Display Cutout Mode" />
+      <item value="color Primary Variant" />
+      <item value="Bridge" />
+      <item value="rebase" />
+      <item value="java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.omt.app.baseproject.ui.home.TextFragment&gt;" />
+      <item value="You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
+      <item value="Instantiation of utility class 'FragmentUtils' " />
+      <item value="Like commit but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
+      <item value="Like commitNow but allows the commit to be executed after an activity's state is saved. This is dangerous because the commit can be lost if the activity needs to later be restored from its state, so this should only be used for cases where it is okay for the UI state to change unexpectedly on the user." />
+      <item value="preferable" />
+      <item value="Raw use of parameterized class 'BaseFragment' " />
+      <item value="cannot be provided without an @Provides-annotated method." />
+      <item value="Cannot create an instance of class" />
+      <item value="Caused by: java.lang.RuntimeException: android.app.Application does not implement dagger.android.HasAndroidInjector" />
+      <item value="parameter type must be assignable to the return type abstract ApiHelper provideApiHelper(SharePreferencesHelper preferencesHelper);" />
+      <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\module\RemoteModule.java:19: error: @Binds methods' parameter type must be assignable to the return type" />
+      <item value="methods must have exactly one parameter, whose type is assignable to the return type" />
+      <item value="interface AppComponent extends AndroidInjector&lt;MyApplication&gt; {" />
+      <item value="@Provides-annotated method" />
+      <item value="D:\AndroidProject\AndroidBaseProjectMVVM\app\src\main\java\com\omt\app\baseproject\di\component\AppComponent.java:28: error: @Component.Factory types must have exactly one abstract method. Already found: create(android.content.Context)" />
+      <item value="&gt; D:\Volumes\Data\OMT\Lib\kidsonline-chat\.android\include_flutter.groovy (D:\Volumes\Data\OMT\Lib\kidsonline-chat\.android\include_flutter.groovy)" />
+      <item value="A problem occurred evaluating settings 'android-parent-v4'." />
+      <item value="set Destination In External Public Dir" />
+      <item value="Coroutine Worker" />
+      <item value="Create an intent that can be used for {@link ActivitystartActivityForResult}" />
+      <item value="Deprecated" />
+      <item value="Type parameters: &lt;I&gt; – type of the input required to launch" />
+      <item value="If you have enabled significant logging, look into using the -G option to increase log buffer sizes." />
+      <item value="messages as quickly as they were being produced." />
+      <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log" />
+      <item value="perf Scn Dump All" />
+      <item value="ElibPowerHal: [perfLockCheckHdl_internal] cannot alloc handle!!! dump all user!!!" />
+      <item value="ElibPowerHal: trigger_aee_warning skip:perf_lock_acq no more handle" />
+      <item value="At least one permission is denied" />
+      <item value="All requested permissions are granted" />
+      <item value="The read timeout is applied to both the TCP socket and for individual read IO operations" />
+      <item value="The default value is 0 which imposes no timeout." />
+      <item value="The call timeout spans the entire call: resolving DNS, connecting, writing the request body, server processing, and reading the response body. If the call requires redirects or retries all must complete within one timeout period." />
+      <item value="Sets the default timeout for complete calls. A value of 0 means no timeout, otherwise values" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.hanabi.baseprojectcom.hanabi.baseproject.ui.HomeActivity}: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value="Unable to create call adapter for io.reactivex" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value=": Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
+      <item value="Caused by: java.lang.IllegalArgumentException: Missing either @GET URL or @Url parameter." />
+      <item value="Caused by: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
+      <item value="An HTTP request. Instances of this class are immutable if their body is null or itself immutable." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="199" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="FRENCH" value="3" />
+        <entry key="LATIN" value="1" />
+        <entry key="VIETNAMESE" value="200" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1660499607137" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="VIETNAMESE" />
+      </google-translate>
+    </option>
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
