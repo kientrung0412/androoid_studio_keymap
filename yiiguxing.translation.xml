@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="thành công" />
+      <item value="thanh cong" />
+      <item value="thanhf c" />
       <item value="Key Comparator" />
       <item value="Opens a lazy box. If the box is already open, the instance is returned and all provided parameters are being ignored." />
       <item value="Error: Bad state: Future already completed" />
@@ -51,18 +54,15 @@
       <item value="messages as quickly as they were being produced." />
       <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log" />
       <item value="perf Scn Dump All" />
-      <item value="ElibPowerHal: [perfLockCheckHdl_internal] cannot alloc handle!!! dump all user!!!" />
-      <item value="ElibPowerHal: trigger_aee_warning skip:perf_lock_acq no more handle" />
-      <item value="At least one permission is denied" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="211" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="209" />
+        <entry key="VIETNAMESE" value="211" />
       </map>
     </option>
   </component>
