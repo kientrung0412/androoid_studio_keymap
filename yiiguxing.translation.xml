@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="service" />
+      <item value="ser" />
       <item value="immutable" />
       <item value="Invalid constant value." />
       <item value="is Absolute" />
@@ -52,8 +54,6 @@
       <item value="Unable to create call adapter for io.reactivex" />
       <item value="Caused by: java.lang.IllegalArgumentException: Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
       <item value=": Unable to create call adapter for io.reactivex.Observable&lt;com.google.gson.JsonObject&gt;" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Missing either @GET URL or @Url parameter." />
-      <item value="Caused by: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="201" />
+        <entry key="VIETNAMESE" value="202" />
       </map>
     </option>
   </component>
