@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Key Comparator" />
+      <item value="Opens a lazy box. If the box is already open, the instance is returned and all provided parameters are being ignored." />
       <item value="Error: Bad state: Future already completed" />
       <item value="Future already completed" />
       <item value="mặc đinh" />
@@ -52,17 +54,15 @@
       <item value="ElibPowerHal: [perfLockCheckHdl_internal] cannot alloc handle!!! dump all user!!!" />
       <item value="ElibPowerHal: trigger_aee_warning skip:perf_lock_acq no more handle" />
       <item value="At least one permission is denied" />
-      <item value="All requested permissions are granted" />
-      <item value="The read timeout is applied to both the TCP socket and for individual read IO operations" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="ENGLISH" value="209" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="207" />
+        <entry key="VIETNAMESE" value="209" />
       </map>
     </option>
   </component>
