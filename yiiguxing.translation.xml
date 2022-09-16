@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="from Swatch" />
+      <item value="The overall brightness of this color scheme." />
+      <item value="surface" />
+      <item value="brightness" />
+      <item value="'No longer used by the framework, please remove any reference to it. ' 'For more information, consult the migration guide at ' 'https:flutter.devdocsreleasebreaking-changestheme-data-accent-propertiesmigration-guide. ' 'This feature was deprecated after v2.3.0-0.1.pre.'," />
       <item value="thành công" />
       <item value="thanh cong" />
       <item value="thanhf c" />
@@ -49,20 +54,15 @@
       <item value="Coroutine Worker" />
       <item value="Create an intent that can be used for {@link ActivitystartActivityForResult}" />
       <item value="Deprecated" />
-      <item value="Type parameters: &lt;I&gt; – type of the input required to launch" />
-      <item value="If you have enabled significant logging, look into using the -G option to increase log buffer sizes." />
-      <item value="messages as quickly as they were being produced." />
-      <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log" />
-      <item value="perf Scn Dump All" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="ENGLISH" value="216" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="211" />
+        <entry key="VIETNAMESE" value="216" />
       </map>
     </option>
   </component>
